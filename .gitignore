@@ -1,0 +1,4 @@
+# ignore target folder
+node_modules/
+unpackage/
+.hbuilderx/
